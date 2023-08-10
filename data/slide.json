@@ -1,0 +1,9 @@
+[
+  {
+    "image": "img/slide/slide01.jpg"
+  },
+  {
+    "image": "img/slide/slide02.jpg",
+    "color": "text-black"
+  }
+]
