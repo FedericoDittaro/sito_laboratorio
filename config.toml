@@ -1,5 +1,5 @@
 baseURL = "https://example.com"
-title = "Tella"
+title = "New Title"
 author = "username"
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -8,7 +8,7 @@ theme = "tella"
 enableRobotsTXT = true
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
-#hasCJKLanguage = true
+#hasCJKLanguage = false
 
 # If you're using Google Analytics, you can enable this feature.
 #googleAnalytics = "UA-12345678-1"
@@ -18,8 +18,8 @@ enableRobotsTXT = true
 
 [params]
 
-  showBlog = true
-  mainSections = ['blog']
+  showNews = true
+  mainSections = ['news']
 
   googleFonts = true
 
@@ -52,43 +52,37 @@ enableRobotsTXT = true
 [menu]
 
   [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
     identifier = "people"
     name = "People"
     url = "/people/"
-    weight = 1
+    weight = 2
 
   [[menu.main]]
     identifier = "projects"
     name = "Projects"
     url = "/projects/"
-    weight = 2
+    weight = 3
 
   [[menu.main]]
     identifier = "publications"
     name = "Publications"
     url = "/publications/"
-    weight = 3
+    weight = 4
 
   [[menu.main]]
-    identifier = "thesis"
-    name = "Thesis"
+    identifier = "thesis & internships"
+    name = "Thesis & Internships"
     url = "/thesis/"
-    weight = 4
+    weight = 5
 
   [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url = "/contact/"
-    weight = 5
-
-  # Footer Menu
-  [[menu.footer]]
-    name = "Home"
-    url = "/"
-      weight = 1
-
-  [[menu.footer]]
-    name = "Github"
-    url = "https://github.com/opera7133/tella"
-    pre = "<i class='icon-github text-2xl'></i>"
-      weight = 2
+    weight = 6
