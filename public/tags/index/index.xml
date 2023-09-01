@@ -2,17 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>index on New Title</title>
-    <link>/tags/index/</link>
+    <link>https://federicodittaro.github.io/sito_laboratorio/tags/index/</link>
     <description>Recent content in index on New Title</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://federicodittaro.github.io/sito_laboratorio/tags/index/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Projects</title>
-      <link>/projects/</link>
+      <title>News</title>
+      <link>https://federicodittaro.github.io/sito_laboratorio/news/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/projects/</guid>
-      <description></description>
+      <guid>https://federicodittaro.github.io/sito_laboratorio/news/</guid>
+      <description>Pluto </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://federicodittaro.github.io/sito_laboratorio/projects/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://federicodittaro.github.io/sito_laboratorio/projects/</guid>
+      <description>Pippo </description>
     </item>
     
   </channel>
