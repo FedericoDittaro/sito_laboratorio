@@ -1,0 +1,281 @@
+nocite: "[@*]"
+references:
+- abstract: The principal nature-based solution for offsetting relative
+    sea-level rise in the Ganges- Brahmaputra delta is the unabated
+    delivery, dispersal, and deposition of the rivers'
+    $\sim$`<!-- -->`{=html}1 billion tonne annual sediment load. Recent
+    hydrological transport modeling suggests that strengthening monsoon
+    precipitation in the 21st century could increase this sediment
+    delivery 34--60%; yet other studies demonstrate that sediment could
+    decline 15--80% if planned dams and river diversions are fully
+    implemented. We validate these modeled ranges by developing a
+    comprehensive field-based sediment budget that quantifies the supply
+    of Ganges-Brahmaputra river sediment under varying Holocene climate
+    conditions. Our data reveal natural responses in sediment supply
+    comparable to previously modeled results and suggest that increased
+    sediment delivery may be capable of offsetting accelerated sea-level
+    rise. This prospect for a naturally sustained Ganges-Brahmaputra
+    delta presents possibilities beyond the dystopian future often posed
+    for this system, but the implementation of currently proposed dams
+    and diversions would preclude such opportunities.
+  author:
+  - family: Raff
+    given: Jessica
+  - family: Goodbred
+    given: Steven
+    suffix: Jr.
+  - family: Pickering
+    given: Jennifer
+  - family: Sincavage
+    given: Ryan
+  - family: Ayers
+    given: John
+  - family: Hossain
+    given: Saddam
+  - family: Wilson
+    given: Carol
+  - family: Paola
+    given: Chris
+  - family: Steckler
+    given: Michael
+  - family: Mondal
+    given: Dhiman
+  - family: Grimaud
+    given: Jean-Louis
+  - family: Grail
+    given: Celine Jo
+  - family: Rogers
+    given: Kimberly
+  - family: Ahmed
+    given: Kazi
+  - family: Akhter
+    given: Syed Humayun
+  - family: Carlson
+    given: Brandee
+  - family: Chamberlain
+    given: Elizabeth
+  - family: Dejter
+    given: Meagan
+  - family: Gilligan
+    given: Jonathan
+  - family: Hale
+    given: Richard
+  - family: Khan
+    given: Mahfuzur
+  - family: Muktadir
+    given: Golam
+  - family: Rahman
+    given: Munsur
+  - family: Williams
+    given: Lauren
+  container-title: Nature Communications
+  doi: 10.1038/s41467-023-38057-9
+  id: "raff:2023:sediment"
+  issn: 2041-1723
+  issued: 2023-04-27
+  keyword: posttenure
+  page: 2429
+  status: published
+  title: Sediment delivery to sustain the Ganges-Brahmaputra delta under
+    climate change and anthropogenic impacts
+  type: article-journal
+  volume: 14
+- abstract: Sustainable use of water resources continues to be a
+    challenge across the globe. This is in part due to the complex set
+    of physical and social behaviors that interact to influence water
+    management from local to global scales. Analyses of water resources
+    have been conducted using a variety of techniques, including
+    qualitative evaluations of media narratives. This study aims to
+    augment these methods by leveraging computational and quantitative
+    techniques from the social sciences focused on text analyses.
+    Specifically, we use natural language processing methods to
+    investigate a large corpus (approx. 1.8M) of newspaper articles
+    spanning approximately 35 years (1982--2017) for insights into
+    human-nature interactions with water. Focusing on local and regional
+    United States publications, our analysis demonstrates important
+    dynamics in water-related dialogue about drinking water and
+    pollution to other critical infrastructures, such as energy, across
+    different parts of the country. Our assessment, which looks at water
+    as a system, also highlights key actors and sentiments surrounding
+    water. Extending these analytical methods could help us further
+    improve our understanding of the complex roles of water in current
+    society that should be considered in emerging activities to mitigate
+    and respond to resource conflicts and climate change.
+  author:
+  - family: Sweitzer
+    given: Matthew D.
+  - family: Gunda
+    given: Thushara
+  - family: Gilligan
+    given: J. M.
+  container-title: Frontiers in Environmental Science
+  doi: 10.3389/fenvs.2023.1038904
+  id: "sweitzer:2023:water.narratives"
+  issn: 2296-665X
+  issued: 2023-03-03
+  keyword: posttenure
+  status: published
+  title: Water narratives in local newspapers within the united states
+  type: article-journal
+  url: "https://www.frontiersin.org/articles/10.3389/fenvs.2023.1038904"
+  volume: 11
+- abstract: As researchers collect large amounts of data in the social
+    sciences through household surveys, challenges may arise in how best
+    to analyze such datasets, especially where motivating theories are
+    unclear or conflicting. New analytical methods may be necessary to
+    extract information from these datasets. Machine learning techniques
+    are promising methods for identifying patterns in large datasets,
+    but have not yet been widely used to identify important variables in
+    social surveys with many questions. To demonstrate the potential of
+    machine learning to analyze large social datasets, we apply machine
+    learning techniques to the study of migration in Bangladesh. The
+    complexity of migration decisions makes them suitable for analysis
+    with machine learning techniques, which enable pattern
+    identification in large datasets with many covariates. In this
+    paper, we apply random forest methods to analyzing a large survey
+    which captures approximately 2000 variables from approximately 1700
+    households in southwestern Bangladesh. Our analysis ranked the
+    covariates in the dataset in terms of their predictive power for
+    migration decisions. The results identified the most important
+    covariates, but there exists a tradeoff between predictive ability
+    and interpretability. To address this tradeoff, random forests and
+    other machine learning algorithms may be especially useful in
+    combination with more traditional regression methods. To develop
+    insights into how the important variables identified by the random
+    forest algorithm impact migration, we performed a survival analysis
+    of household time to first migration. With this combined analysis,
+    we found that variables related to wealth and household composition
+    are important predictors of migration. Such multi-methods approaches
+    may help to shed light on factors contributing to migration and
+    non-migration.
+  author:
+  - family: Best
+    given: Kelsea
+  - family: Gilligan
+    given: Jonathan
+  - family: Baroud
+    given: Hiba
+  - family: Carrico
+    given: Amanda
+  - family: Donato
+    given: Katharine
+  - family: Mallick
+    given: Bishawjit
+  container-title: Regional Environmental Change
+  doi: 10.1007/s10113-022-01915-1
+  id: "best:2022:random.forest"
+  issued: 2022-03-25
+  keyword: posttenure
+  page: 52
+  status: published
+  title: "Applying machine learning to social datasets: A study of
+    migration in southwestern Bangladesh using random forests"
+  title-short: Applying machine learning to social datasets
+  type: article-journal
+  volume: 22
+- abstract: The decision to migrate is complex and is often influenced
+    by a combination of economic, social, political, and environmental
+    pressures. Household survey instruments can capture detailed
+    information about migration histories and their contexts, but it can
+    be challenging to identify important predictors from large numbers
+    of covariates with standard statistical methods, such as regression
+    analyses. Machine learning techniques are well suited to pattern
+    identification and can identify important covariates from large
+    datasets. We report on the application of machine learning
+    approaches to two large surveys collected from a total of more than
+    2800 households in southwestern Bangladesh. We applied random forest
+    classification and regression models to identify significant
+    covariates with the greatest predictive power for household
+    migration decisions. The results show that random forest models are
+    able to identify nuances in predictors of different types of
+    migration and migration in different communities. Random forests
+    also outperform logistic regression and support vector machines in
+    predicting migration in all cases analyzed. Therefore, random forest
+    models and other machine learning methods can be useful for
+    improving the predictive accuracy of migration models and
+    identifying patterns in complex social datasets. Future work should
+    continue to explore the potential of machine learning techniques
+    applied to questions of environmental migration.
+  accessed: 2021-05-01
+  author:
+  - family: Best
+    given: Kelsea B.
+  - family: Gilligan
+    given: Jonathan M.
+  - family: Baroud
+    given: Hiba
+  - family: Carrico
+    given: Amanda R.
+  - family: Donato
+    given: Katharine M.
+  - family: Ackerly
+    given: Brooke A.
+  - family: Mallick
+    given: Bishawjit
+  container-title: Journal of Computational Social Science
+  container-title-short: J Comput Soc Sc
+  doi: 10.1007/s42001-020-00066-9
+  id: "best:2021:random.forest"
+  issn: 2432-2725
+  issued: 2021
+  keyword: posttenure
+  language: en-US
+  page: 77-100
+  status: published
+  title: Random forest analysis of two household surveys can identify
+    important predictors of migration in Bangladesh
+  type: article-journal
+  url: "https://doi.org/10.1007/s42001-020-00066-9"
+  volume: 14
+- abstract: Environmental change interacts with population migration in
+    complex ways that depend on interactions between impacts on
+    individual households and on communities. These coupled
+    individual-collective dynamics make agent-based simulations useful
+    for studying environmental migration. We present an original
+    agent-based model that simulates environment-migration dynamics in
+    terms of the impacts of natural hazards on labor markets in rural
+    communities, with households deciding whether to migrate based on
+    maximizing their expected income. We use a pattern-oriented approach
+    that seeks to reproduce observed patterns of environmentally-driven
+    migration in Bangladesh. The model is parameterized with empirical
+    data and unknown parameters are calibrated to reproduce the observed
+    patterns. This model can reproduce these patterns, but only for a
+    narrow range of parameters. Future work will compare
+    income-maximizing decisions to psychologically complex decision
+    heuristics that include non-economic considerations.
+  author:
+  - family: Best
+    given: Kelsea B.
+  - family: Qu
+    given: Ao
+  - family: Gilligan
+    given: Jonathan M.
+  container-title: Proceedings of the 2021 winter simulation conference
+  doi: 10.1109/WSC52266.2021.9715380
+  editor:
+  - family: Kim
+    given: S.
+  - family: Feng
+    given: B.
+  - family: Smith
+    given: K.
+  - family: Masoud
+    given: S.
+  - family: Zhang
+    given: Z.
+  - family: Czabo
+    given: C.
+  - family: Lopez
+    given: M.
+  id: "best:2021:WSC"
+  issued: 2021-12-31
+  keyword: posttenure
+  publisher: IEEE Press
+  publisher-place: Piscataway, NJ, USA
+  status: published
+  title: "Modeling multi-level patterns of environmental migration in
+    Bangladesh: An agent-based approach"
+  title-short: Modeling multi-level patterns of environmental migration
+    in Bangladesh
+  type: paper-conference
+

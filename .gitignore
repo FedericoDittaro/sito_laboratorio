@@ -22,7 +22,4 @@ _testmain.go
 *.exe
 *.test
 
-/public
 .DS_Store
-
-!/public/.gitkeep
