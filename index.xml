@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>New Title</title>
+    <link>/</link>
+    <description>Recent content on New Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sediment delivery to sustain the Ganges-Brahmaputra delta under climate change and anthropogenic impacts</title>
+      <link>/publications/raff_2023_sediment/</link>
+      <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/raff_2023_sediment/</guid>
+      <description>The principal nature-based solution for offsetting relative sea-level rise in the Ganges- Brahmaputra delta is the unabated delivery, dispersal, and deposition of the rivers&#39; $\sim$1 billion tonne annual sediment load. Recent hydrological transport modeling suggests that strengthening monsoon precipitation in the 21st century could increase this sediment delivery 34&amp;ndash;60%; yet other studies demonstrate that sediment could decline 15&amp;ndash;80% if planned dams and river diversions are fully implemented. We validate these modeled ranges by developing a comprehensive field-based sediment budget that quantifies the supply of Ganges-Brahmaputra river sediment under varying Holocene climate conditions.</description>
+    </item>
+    
+    <item>
+      <title>Water narratives in local newspapers within the united states</title>
+      <link>/publications/sweitzer_2023_water_narratives/</link>
+      <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/sweitzer_2023_water_narratives/</guid>
+      <description>Sustainable use of water resources continues to be a challenge across the globe. This is in part due to the complex set of physical and social behaviors that interact to influence water management from local to global scales. Analyses of water resources have been conducted using a variety of techniques, including qualitative evaluations of media narratives. This study aims to augment these methods by leveraging computational and quantitative techniques from the social sciences focused on text analyses.</description>
+    </item>
+    
+    <item>
+      <title>Applying machine learning to social datasets: A study of migration in southwestern Bangladesh using random forests</title>
+      <link>/publications/best_2022_random_forest/</link>
+      <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/best_2022_random_forest/</guid>
+      <description>As researchers collect large amounts of data in the social sciences through household surveys, challenges may arise in how best to analyze such datasets, especially where motivating theories are unclear or conflicting. New analytical methods may be necessary to extract information from these datasets. Machine learning techniques are promising methods for identifying patterns in large datasets, but have not yet been widely used to identify important variables in social surveys with many questions.</description>
+    </item>
+    
+    <item>
+      <title>Modeling multi-level patterns of environmental migration in Bangladesh: An agent-based approach</title>
+      <link>/publications/best_2021_wsc/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/best_2021_wsc/</guid>
+      <description>Environmental change interacts with population migration in complex ways that depend on interactions between impacts on individual households and on communities. These coupled individual-collective dynamics make agent-based simulations useful for studying environmental migration. We present an original agent-based model that simulates environment-migration dynamics in terms of the impacts of natural hazards on labor markets in rural communities, with households deciding whether to migrate based on maximizing their expected income. We use a pattern-oriented approach that seeks to reproduce observed patterns of environmentally-driven migration in Bangladesh.</description>
+    </item>
+    
+    <item>
+      <title>Random forest analysis of two household surveys can identify important predictors of migration in Bangladesh</title>
+      <link>/publications/best_2021_random_forest/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/best_2021_random_forest/</guid>
+      <description>The decision to migrate is complex and is often influenced by a combination of economic, social, political, and environmental pressures. Household survey instruments can capture detailed information about migration histories and their contexts, but it can be challenging to identify important predictors from large numbers of covariates with standard statistical methods, such as regression analyses. Machine learning techniques are well suited to pattern identification and can identify important covariates from large datasets.</description>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>/projects/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/markdown-syntax/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>News 1</title>
+      <link>/news/news1/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/news1/</guid>
+      <description>&lt;p&gt;Breve descrizione&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>News 2</title>
+      <link>/news/news2/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/news2/</guid>
+      <description>&lt;p&gt;Breve descrizione&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>/projects/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/rich-content/</guid>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugos-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>News 3</title>
+      <link>/news/news3/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/news3/</guid>
+      <description>Breve descrizione</description>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>/projects/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>/projects/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/math-typesetting/</guid>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>News 4</title>
+      <link>/news/news4/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/news4/</guid>
+      <description>&lt;p&gt;Breve Descrizione&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>/projects/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>News 5</title>
+      <link>/news/news5/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/news/news5/</guid>
+      <description>&lt;p&gt;Breve descrizione&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>To contact us, please fill out the form below.</description>
+    </item>
+    
+  </channel>
+</rss>
