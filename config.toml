@@ -1,4 +1,4 @@
-baseURL = "https://federicodittaro.github.io/sito_laboratorio/"
+baseURL = ""
 title = "New Title"
 author = "username"
 languageCode = "en"

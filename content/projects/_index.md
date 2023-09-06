@@ -5,6 +5,5 @@ author = "Hugo Authors"
 tags = ["index"]
 +++
 
-# Pippo
 
 {{< projects >}}
