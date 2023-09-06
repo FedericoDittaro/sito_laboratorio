@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on New Title</title>
-    <link>https://federicodittaro.github.io/sito_laboratorio/publications/</link>
+    <link>/publications/</link>
     <description>Recent content in Publications on New Title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://federicodittaro.github.io/sito_laboratorio/publications/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="/publications/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sediment delivery to sustain the Ganges-Brahmaputra delta under climate change and anthropogenic impacts</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/publications/raff_2023_sediment/</link>
+      <link>/publications/raff_2023_sediment/</link>
       <pubDate>Thu, 27 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://federicodittaro.github.io/sito_laboratorio/publications/raff_2023_sediment/</guid>
+      <guid>/publications/raff_2023_sediment/</guid>
       <description>The principal nature-based solution for offsetting relative sea-level rise in the Ganges- Brahmaputra delta is the unabated delivery, dispersal, and deposition of the rivers&#39; $\sim$1 billion tonne annual sediment load. Recent hydrological transport modeling suggests that strengthening monsoon precipitation in the 21st century could increase this sediment delivery 34&amp;ndash;60%; yet other studies demonstrate that sediment could decline 15&amp;ndash;80% if planned dams and river diversions are fully implemented. We validate these modeled ranges by developing a comprehensive field-based sediment budget that quantifies the supply of Ganges-Brahmaputra river sediment under varying Holocene climate conditions.</description>
     </item>
     
     <item>
       <title>Water narratives in local newspapers within the united states</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/publications/sweitzer_2023_water_narratives/</link>
+      <link>/publications/sweitzer_2023_water_narratives/</link>
       <pubDate>Fri, 03 Mar 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://federicodittaro.github.io/sito_laboratorio/publications/sweitzer_2023_water_narratives/</guid>
+      <guid>/publications/sweitzer_2023_water_narratives/</guid>
       <description>Sustainable use of water resources continues to be a challenge across the globe. This is in part due to the complex set of physical and social behaviors that interact to influence water management from local to global scales. Analyses of water resources have been conducted using a variety of techniques, including qualitative evaluations of media narratives. This study aims to augment these methods by leveraging computational and quantitative techniques from the social sciences focused on text analyses.</description>
     </item>
     
     <item>
       <title>Applying machine learning to social datasets: A study of migration in southwestern Bangladesh using random forests</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/publications/best_2022_random_forest/</link>
+      <link>/publications/best_2022_random_forest/</link>
       <pubDate>Fri, 25 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://federicodittaro.github.io/sito_laboratorio/publications/best_2022_random_forest/</guid>
+      <guid>/publications/best_2022_random_forest/</guid>
       <description>As researchers collect large amounts of data in the social sciences through household surveys, challenges may arise in how best to analyze such datasets, especially where motivating theories are unclear or conflicting. New analytical methods may be necessary to extract information from these datasets. Machine learning techniques are promising methods for identifying patterns in large datasets, but have not yet been widely used to identify important variables in social surveys with many questions.</description>
     </item>
     
     <item>
       <title>Modeling multi-level patterns of environmental migration in Bangladesh: An agent-based approach</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/publications/best_2021_wsc/</link>
+      <link>/publications/best_2021_wsc/</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://federicodittaro.github.io/sito_laboratorio/publications/best_2021_wsc/</guid>
+      <guid>/publications/best_2021_wsc/</guid>
       <description>Environmental change interacts with population migration in complex ways that depend on interactions between impacts on individual households and on communities. These coupled individual-collective dynamics make agent-based simulations useful for studying environmental migration. We present an original agent-based model that simulates environment-migration dynamics in terms of the impacts of natural hazards on labor markets in rural communities, with households deciding whether to migrate based on maximizing their expected income. We use a pattern-oriented approach that seeks to reproduce observed patterns of environmentally-driven migration in Bangladesh.</description>
     </item>
     
     <item>
       <title>Random forest analysis of two household surveys can identify important predictors of migration in Bangladesh</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/publications/best_2021_random_forest/</link>
+      <link>/publications/best_2021_random_forest/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://federicodittaro.github.io/sito_laboratorio/publications/best_2021_random_forest/</guid>
+      <guid>/publications/best_2021_random_forest/</guid>
       <description>The decision to migrate is complex and is often influenced by a combination of economic, social, political, and environmental pressures. Household survey instruments can capture detailed information about migration histories and their contexts, but it can be challenging to identify important predictors from large numbers of covariates with standard statistical methods, such as regression analyses. Machine learning techniques are well suited to pattern identification and can identify important covariates from large datasets.</description>
     </item>
     

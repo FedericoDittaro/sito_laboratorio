@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on New Title</title>
-    <link>https://federicodittaro.github.io/sito_laboratorio/news/</link>
+    <link>/news/</link>
     <description>Recent content in News on New Title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://federicodittaro.github.io/sito_laboratorio/news/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>News 1</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/news/news1/</link>
+      <link>/news/news1/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://federicodittaro.github.io/sito_laboratorio/news/news1/</guid>
+      <guid>/news/news1/</guid>
       <description>&lt;p&gt;Breve descrizione&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>News 2</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/news/news2/</link>
+      <link>/news/news2/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://federicodittaro.github.io/sito_laboratorio/news/news2/</guid>
+      <guid>/news/news2/</guid>
       <description>&lt;p&gt;Breve descrizione&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>News 3</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/news/news3/</link>
+      <link>/news/news3/</link>
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://federicodittaro.github.io/sito_laboratorio/news/news3/</guid>
+      <guid>/news/news3/</guid>
       <description>Breve descrizione</description>
     </item>
     
     <item>
       <title>News 4</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/news/news4/</link>
+      <link>/news/news4/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://federicodittaro.github.io/sito_laboratorio/news/news4/</guid>
+      <guid>/news/news4/</guid>
       <description>&lt;p&gt;Breve Descrizione&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>News 5</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/news/news5/</link>
+      <link>/news/news5/</link>
       <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://federicodittaro.github.io/sito_laboratorio/news/news5/</guid>
+      <guid>/news/news5/</guid>
       <description>&lt;p&gt;Breve descrizione&lt;/p&gt;</description>
     </item>
     
