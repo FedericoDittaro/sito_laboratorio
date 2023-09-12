@@ -8,7 +8,7 @@ if [ $current_branch != Federico ]; then
     echo WARNING: $current_branch not Federico
 fi
 
-if [-z $1]; then
+if [ -z $1 ]; then
     echo ERROR: manca il commit message
     exit 1
 fi    
