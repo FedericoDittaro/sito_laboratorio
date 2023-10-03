@@ -16,9 +16,11 @@ function displayResults (results, store) {
         //genera la formattazione dei risultati (ogni pagina è un resultList)
         resultList += `
             <li>
-                <h3>
-                    <a href="${item.url}">${highlightSearchTerm(item.title, searchTerm)}</a>
+                <br><br>
+                <h3 class="result">
+                <a href="${item.url}">${highlightSearchTerm(item.title, searchTerm)}</a>
                 </h3>
+                <br>
                 <p>${highlightSearchTerm(item.content, searchTerm)}</p>
             </li>
         `;
