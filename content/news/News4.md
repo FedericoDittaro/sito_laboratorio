@@ -5,5 +5,5 @@ description: A brief guide to setup KaTeX
 math: true
 ---
 
-Breve Descrizione
+Breve descrizione
 <!--more-->
