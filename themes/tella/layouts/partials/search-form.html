@@ -1,0 +1,9 @@
+{{ partial "search-index.html" . }} <!-- import dell'indice -->
+
+<form id="search" action='{{ with .GetPage "/search" }}{{.Permalink}}{{end}}' method="get">
+    <input type="text" id="search-input" name="query" placeholder="🔍  Search..." style="width: 150px; height:40px;">
+</form>
+
+<!-- crea il form (parte grafica) della barra di ricerca
+    uso: questo file va importato nel file in cui si vuole visualizzare
+    la barra;-->

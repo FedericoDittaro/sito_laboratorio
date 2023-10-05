@@ -1,0 +1,30 @@
+{{- $ := .dot -}}
+<article class="pub inline" itemscope itemtype="http://schema.org/ScholarlyArticle">
+{{ partial "pub_fmt/authors" . | chomp -}},
+{{ partial "pub_fmt/article_title" . | chomp }}
+{{ partial "pub_fmt/journal" . | chomp -}}
+{{ partial "pub_fmt/volume" . -}}
+{{- partial "pub_fmt/pages" . -}}
+{{- if gt .bib_with_year 0 }}
+  ({{- $.Date.Format "2006" }})
+{{- end -}}.
+{{- if gt .doi 0 -}}
+{{- partial "pub_fmt/doi" . -}}
+{{- end -}}
+{{- if gt .url 0 -}}
+{{- partial "pub_fmt/url" . -}}
+{{- end -}}
+{{- if gt .ssrn 0 }}
+{{ partial "pub_fmt/ssrn" . -}}
+{{- end }}
+{{- if gt .preprint 0 }}
+{{ partial "pub_fmt/preprint_link" . -}}
+{{- end }}
+{{- if isset $.Params "author" -}}
+  {{- $author_names := apply (apply $.Params.author "partial" "pub_fmt/author" ".") "chomp" "." -}}
+  {{- range $author_names }}
+    <meta itemprop="author" content="{{ . | markdownify }}"/>
+  {{- end -}}
+{{- end -}}
+<time datetime="{{ $.Date | safeHTML }}" itemprop="datePublished"></time>
+</article>

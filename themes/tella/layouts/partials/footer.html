@@ -1,0 +1,47 @@
+<footer class="bg-tlgray-20">
+  {{ if not .IsHome }}
+  <script src='{{ "js/clipboard.min.js" | relURL }}'></script>
+  <script src='{{ "js/highlight.min.js" | relURL }}'></script>
+  <script src='{{ "js/highlightjs-line-numbers.min.js" | relURL }}'></script>
+  <script src='{{ "js/sweetalert2.min.js" | relURL }}'></script>
+  <script>
+    hljs.initHighlightingOnLoad();
+    hljs.initLineNumbersOnLoad();
+    new ClipboardJS('.url');
+
+    function OnClickURL() {
+      Swal.fire({
+        icon: 'success',
+        title: 'Copied!',
+        text: 'Copied the URL and title.'
+      })
+    }
+  </script>
+  {{ end }}
+  <script>
+    function toggleNav() {
+      var hamburger = document.getElementById("hamburgerbtn");
+      var overlay = document.getElementById("overlay");
+      var body = document.body;
+
+      hamburger.addEventListener("click", function () {
+        overlay.classList.toggle("open");
+        hamburger.classList.toggle("is-open");
+        body.classList.toggle("scroll-lock");
+      });
+    }
+    toggleNav();
+
+    document.querySelector('.scroll-top').addEventListener('click', () => {
+      document.documentElement.scrollTop = 0;
+    });
+  </script>
+  {{ if .Site.Params.googleFonts }}
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat&family=Open+Sans&display=swap" rel="stylesheet" />
+  {{ else }}
+  <link href='{{ "css/webfonts.min.css" | relURL }}' rel="stylesheet" />
+  {{ end }}
+  <div class="copy pl-8 py-5 bg-tlgray-700 text-white text-md">
+    &copy; {{site.Title}} {{ now.Year }} All Rights Reserved.
+  </div>
+</footer>

@@ -1,0 +1,20 @@
+<!--crea l'indice di ricerca -->
+<script>
+    window.store = {
+        // get section blog data
+        {{ range .Site.RegularPages}}
+        
+        // Permalink as an identifier
+        "{{ .Permalink }}": {
+            // write all data we need to be displayed in the search list
+            "title": "{{ .Title  }}",
+            "content": {{ .Content | plainify }}, // Strip out HTML tags
+            "url": "{{ .Permalink }}"
+        },
+        {{ end }}
+    };
+</script>
+
+<!-- l'indice in questione contiene i dati trovati in fase di ricerca
+    per visualizzarli importare questo file nel file search-form, 
+    in questo modo, quando viene richiamato il form viene richiamato anche questo -->
