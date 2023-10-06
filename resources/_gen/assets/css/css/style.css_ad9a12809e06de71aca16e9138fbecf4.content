@@ -2015,9 +2015,9 @@ video {
 }
 
 #overlay #search-input {
-  width: auto !important;
+  width: -moz-fit-content !important;
+  width: fit-content !important;
   height: auto !important;
-  background-color: red;
 }
 
 @media (min-width: 768px) {

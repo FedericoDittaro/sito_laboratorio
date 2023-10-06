@@ -34,7 +34,6 @@
 }
 
 #overlay #search-input {
-    width: auto !important;
+    width: fit-content !important;
     height: auto !important;
-    background-color: red;
 }
