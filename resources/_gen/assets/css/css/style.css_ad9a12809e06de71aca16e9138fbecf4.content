@@ -2049,6 +2049,10 @@ video {
   margin: 10px;
 }
 
+.dsc {
+  word-wrap: break-word;
+}
+
 @media (min-width: 768px) {
   .md\:prose-lg {
     font-size: 1.125rem;
