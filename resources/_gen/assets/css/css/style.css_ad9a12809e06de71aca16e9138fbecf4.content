@@ -1350,6 +1350,10 @@ video {
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
 
+.grid-cols-4 {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
 .flex-row {
   flex-direction: row;
 }
@@ -1412,6 +1416,10 @@ video {
 
 .justify-stretch {
   justify-content: stretch;
+}
+
+.gap-2 {
+  gap: 0.5rem;
 }
 
 .gap-3 {
@@ -2018,6 +2026,27 @@ video {
   width: -moz-fit-content !important;
   width: fit-content !important;
   height: auto !important;
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+  .grid-cols-4{
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1265px) {
+  .grid-cols-4{
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.border {
+  border-width: 2px;
+}
+
+.p-8 {
+  padding: 2rem;
+  margin: 10px;
 }
 
 @media (min-width: 768px) {
