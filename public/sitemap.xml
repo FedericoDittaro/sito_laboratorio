@@ -2,6 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://federicodittaro.github.io/sito_laboratorio/people/person1/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicodittaro.github.io/sito_laboratorio/people/person2/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicodittaro.github.io/sito_laboratorio/people/person3/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicodittaro.github.io/sito_laboratorio/people/person4/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicodittaro.github.io/sito_laboratorio/people/person5/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicodittaro.github.io/sito_laboratorio/people/person6/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicodittaro.github.io/sito_laboratorio/people/person7/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicodittaro.github.io/sito_laboratorio/people/person8/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicodittaro.github.io/sito_laboratorio/people/person9/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicodittaro.github.io/sito_laboratorio/people/person10/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicodittaro.github.io/sito_laboratorio/people/person11/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicodittaro.github.io/sito_laboratorio/people/person12/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicodittaro.github.io/sito_laboratorio/people/person13/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicodittaro.github.io/sito_laboratorio/people/person14/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicodittaro.github.io/sito_laboratorio/people/person15/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicodittaro.github.io/sito_laboratorio/people/person16/</loc>
+    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://federicodittaro.github.io/sito_laboratorio/</loc>
     <lastmod>2023-04-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -13,6 +61,9 @@
   </url><url>
     <loc>https://federicodittaro.github.io/sito_laboratorio/publications/sweitzer_2023_water_narratives/</loc>
     <lastmod>2023-03-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://federicodittaro.github.io/sito_laboratorio/people/</loc>
+    <lastmod>2023-02-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://federicodittaro.github.io/sito_laboratorio/publications/best_2022_random_forest/</loc>
     <lastmod>2022-03-25T00:00:00+00:00</lastmod>
@@ -95,8 +146,6 @@
     <loc>https://federicodittaro.github.io/sito_laboratorio/contact/</loc>
   </url><url>
     <loc>https://federicodittaro.github.io/sito_laboratorio/tags/index/</loc>
-  </url><url>
-    <loc>https://federicodittaro.github.io/sito_laboratorio/people/</loc>
   </url><url>
     <loc>https://federicodittaro.github.io/sito_laboratorio/search/</loc>
   </url><url>
