@@ -80,9 +80,3 @@ enableRobotsTXT = true
     name = "Thesis & Internships"
     url = "/thesis/"
     weight = 5
-
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
-    weight = 6

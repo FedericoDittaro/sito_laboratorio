@@ -1,10 +1,7 @@
 +++
-title = "Persona 3"
+name = "Persona 3"
 weight = 3
-description = "Persona3@spes.uniud.it"
-date = "2019-02-28"
-aliases = ["people"]
-author = "Hugo Authors"
+email = "Persona3@spes.uniud.it"
 +++
 
 

@@ -1,11 +1,9 @@
 +++
-title = "Persona 1"
+name = "Persona 1"
 weight = 1
-description = "Persona1@spes.uniud.it"
-date = "2023-02-28"
-aliases = ["people"]
-author = "Hugo Authors"
-img = "https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png"
+email = "Persona1@spes.uniud.it"
+position = "Professor"
+img = "https://people.uniud.it/sites/default/files/styles/medium/public/pictures/picture%20ridotta%20e%20quadrata.jpg?itok=xbQGCwy1"
 +++
 
 

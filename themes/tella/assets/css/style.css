@@ -2053,6 +2053,22 @@ video {
   word-wrap: break-word;
 }
 
+.center-element {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.person-icon {
+  height: 8em;
+  padding-bottom: 20px;
+}
+
+.position {
+  color:#999;
+}
+
 @media (min-width: 768px) {
   .md\:prose-lg {
     font-size: 1.125rem;

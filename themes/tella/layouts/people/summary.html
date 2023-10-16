@@ -1,8 +1,20 @@
 <a href="{{ .Permalink }}">
     <div class="summary border p-8">
+        <div class="center-element">
+            {{ if .Params.img }}
+                <img class="person-icon" src="{{ .Params.img | absURL }}">
+            {{ else }}
+                <img class="person-icon" src='{{ "img/noFoto.jpeg" | relURL }}'>
+            {{ end }}
+        </div>
         <h2 class="text-3xl">
-            {{ .Title }}
+            {{ .Params.name }}
         </h2>
-        <p class="dsc">{{ .Description }}</p>
+        {{ if .Params.position }}
+            <p class="position">{{ .Params.position }}</p>
+        {{ end }}
+        {{ if .Params.email }}
+            <p class="dsc">{{ .Params.email }}</p>
+        {{ end }}
     </div>
 </a>

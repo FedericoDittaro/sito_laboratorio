@@ -1,11 +1,8 @@
 +++
-title = "Persona 4"
+name = "Persona 4"
 weight = 4
-description = "Persona4@spes.uniud.it"
-date = "2019-02-28"
-aliases = ["people"]
-author = "Hugo Authors"
+email = "Persona4@spes.uniud.it"
 +++
 
 
-Testo di Persona4
+Testo di Persona 4

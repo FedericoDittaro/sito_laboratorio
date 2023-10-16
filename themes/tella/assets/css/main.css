@@ -67,3 +67,19 @@
 .dsc {
     word-wrap: break-word;
 }
+
+.center-element {
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    height: 100%;
+}
+
+.person-icon {
+    height: 8em;
+    padding-bottom: 20px;
+}
+
+.position {
+    color:#999;
+}
