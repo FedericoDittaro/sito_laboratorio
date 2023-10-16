@@ -8,147 +8,48 @@
     <language>en</language>
     <lastBuildDate>Thu, 27 Apr 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://federicodittaro.github.io/sito_laboratorio/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Persona 1</title>
+      <title></title>
       <link>https://federicodittaro.github.io/sito_laboratorio/people/person1/</link>
-      <pubDate>Tue, 28 Feb 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://federicodittaro.github.io/sito_laboratorio/people/person1/</guid>
       <description>Testo di Persona1</description>
     </item>
     
     <item>
-      <title>Persona 2</title>
+      <title></title>
       <link>https://federicodittaro.github.io/sito_laboratorio/people/person2/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://federicodittaro.github.io/sito_laboratorio/people/person2/</guid>
       <description>Testo di Persona2</description>
     </item>
     
     <item>
-      <title>Persona 3</title>
+      <title></title>
       <link>https://federicodittaro.github.io/sito_laboratorio/people/person3/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://federicodittaro.github.io/sito_laboratorio/people/person3/</guid>
       <description>Testo di Persona3</description>
     </item>
     
     <item>
-      <title>Persona 4</title>
+      <title></title>
       <link>https://federicodittaro.github.io/sito_laboratorio/people/person4/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://federicodittaro.github.io/sito_laboratorio/people/person4/</guid>
-      <description>Testo di Persona4</description>
+      <description>Testo di Persona 4</description>
     </item>
     
     <item>
-      <title>Persona 5</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/people/person5/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://federicodittaro.github.io/sito_laboratorio/people/person4-copy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://federicodittaro.github.io/sito_laboratorio/people/person5/</guid>
-      <description>Testo di Persona5</description>
-    </item>
-    
-    <item>
-      <title>Persona 6</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/people/person6/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://federicodittaro.github.io/sito_laboratorio/people/person6/</guid>
-      <description>Testo di Persona1</description>
-    </item>
-    
-    <item>
-      <title>Persona 7</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/people/person7/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://federicodittaro.github.io/sito_laboratorio/people/person7/</guid>
-      <description>Testo di Persona7</description>
-    </item>
-    
-    <item>
-      <title>Persona 8</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/people/person8/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://federicodittaro.github.io/sito_laboratorio/people/person8/</guid>
-      <description>Testo di Persona8</description>
-    </item>
-    
-    <item>
-      <title>Persona 9</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/people/person9/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://federicodittaro.github.io/sito_laboratorio/people/person9/</guid>
-      <description>Testo di Persona9</description>
-    </item>
-    
-    <item>
-      <title>Persona 10</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/people/person10/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://federicodittaro.github.io/sito_laboratorio/people/person10/</guid>
-      <description>Testo di Persona10</description>
-    </item>
-    
-    <item>
-      <title>Persona 11</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/people/person11/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://federicodittaro.github.io/sito_laboratorio/people/person11/</guid>
-      <description>Testo di Persona11</description>
-    </item>
-    
-    <item>
-      <title>Persona 12</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/people/person12/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://federicodittaro.github.io/sito_laboratorio/people/person12/</guid>
-      <description>Testo di Persona12</description>
-    </item>
-    
-    <item>
-      <title>Persona 13</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/people/person13/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://federicodittaro.github.io/sito_laboratorio/people/person13/</guid>
-      <description>Testo di Persona13</description>
-    </item>
-    
-    <item>
-      <title>Persona 14</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/people/person14/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://federicodittaro.github.io/sito_laboratorio/people/person14/</guid>
-      <description>Testo di Persona14</description>
-    </item>
-    
-    <item>
-      <title>Persona 15</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/people/person15/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://federicodittaro.github.io/sito_laboratorio/people/person15/</guid>
-      <description>Testo di Persona15</description>
-    </item>
-    
-    <item>
-      <title>Persona 16</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/people/person16/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://federicodittaro.github.io/sito_laboratorio/people/person16/</guid>
-      <description>Testo di Persona16</description>
+      <guid>https://federicodittaro.github.io/sito_laboratorio/people/person4-copy/</guid>
+      <description>Testo di Persona 5</description>
     </item>
     
     <item>
@@ -284,15 +185,6 @@
       
       <guid>https://federicodittaro.github.io/sito_laboratorio/news/news5/</guid>
       <description>&lt;p&gt;Breve descrizione&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Contact</title>
-      <link>https://federicodittaro.github.io/sito_laboratorio/contact/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://federicodittaro.github.io/sito_laboratorio/contact/</guid>
-      <description>To contact us, please fill out the form below.</description>
     </item>
     
   </channel>
