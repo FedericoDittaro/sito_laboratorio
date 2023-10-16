@@ -1350,6 +1350,10 @@ video {
   grid-template-columns: repeat(1, minmax(0, 1fr));
 }
 
+.grid-cols-3 {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+
 .grid-cols-4 {
   grid-template-columns: repeat(4, minmax(0, 1fr));
 }
@@ -2029,14 +2033,14 @@ video {
 }
 
 @media (min-width: 320px) and (max-width: 767px) {
-  .grid-cols-4{
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+  .grid-cols-3{
+    grid-template-columns: repeat(1, minmax(0, 1fr));
   }
 }
 
 @media (min-width: 768px) and (max-width: 1265px) {
-  .grid-cols-4{
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+  .grid-cols-3{
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 }
 
@@ -2067,6 +2071,10 @@ video {
 
 .position {
   color:#999;
+}
+
+.border:hover {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
 }
 
 @media (min-width: 768px) {

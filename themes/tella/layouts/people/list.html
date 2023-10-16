@@ -3,13 +3,13 @@
     <div class="mx-3 col-span-3 lg:col-span-2 px-2">
         <h1 class="title text-5xl mb-4">{{ .Title }}</h1>
         <div class="content py-1">{{ .Content }}</div>
-        <div class="grid grid-cols-4 gap-2 my-4">
+        <div class="grid grid-cols-3 gap-2 my-4">
             {{ range where .Pages.ByWeight "Params.former" "!=" true }}
             {{ .Render "summary" }}
             {{ end }}
         </div>
         <h2 class="title text-3xl mb-4">Former</h2>
-        <div class="grid grid-cols-4 gap-2 my-4">
+        <div class="grid grid-cols-3 gap-2 my-4">
             {{ range where .Pages.ByWeight "Params.former" true }}
             {{ .Render "summary" }}
             {{ end }}
